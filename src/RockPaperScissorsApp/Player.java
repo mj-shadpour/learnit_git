@@ -8,6 +8,7 @@ public class Player {
         name=null;
         score=0;
     }
+    //new comment
     Player(String name){
         this.name=name;
     }
